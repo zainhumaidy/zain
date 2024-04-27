@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488209695271",
+    "project_id": "zayntech-64ee4",
+    "storage_bucket": "zayntech-64ee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488209695271:android:e1026065f0e7dc14134402",
+        "android_client_info": {
+          "package_name": "com.example.qerscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhwhbFCvpVKhhM11yVJnOUoO3THAphKnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
